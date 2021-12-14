@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">zad8</string>
+    <string name="sensor_add_new">New sensor</string>
+    <string name="show_sensor_number">Show number</string>
+    <string name="hide_sensor_number">Hide number</string>
+    <string name="light_sensor_label">light sensor value: %1$f</string>
+    <string name="temperature_sensor_label">Temperature Sensor: %1$f</string>
+    <string name="missing_sensor">Missing sensor</string>
+    <string name="sensors_count">Sensor count: %1$d</string>
+</resources>
